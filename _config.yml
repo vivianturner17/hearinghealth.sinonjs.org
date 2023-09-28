@@ -24,7 +24,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   In a world where hearing loss and poor hearing have become prevalent issues, finding effective and affordable solutions can be a daunting task. Traditional options such as hearing aids and cochlear implants often come with a hefty price tag and inconveniences. However, a breakthrough in herbal science has paved the way for a natural and inexpensive alternative - Cortexi.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://hearinghealth.sinonjs.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hearinghealth.sinonjs.org/" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: 'assets/images/favicon.ico'
 logo: 'assets/images/Cortexi-2.png'
 twitter_username: jekyllrb
